@@ -1,2 +1,0 @@
-# BackboneStarter
-Created with CodeSandbox
